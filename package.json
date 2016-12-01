@@ -1,15 +1,23 @@
 {
-  "name": "npmproject",
-  "version": "1.0.0",
+  "name": "npmprojectjohnson",
+  "version": "1.0.1",
   "description": "nothing here to show",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "johnson9432",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnson9432/howToNPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnson9432/howToNPM/issues"
+  },
+  "homepage": "https://github.com/johnson9432/howToNPM#readme"
 }
